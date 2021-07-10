@@ -1,11 +1,9 @@
-import time, glob
-from os import listdir
-from os.path import isfile, join
+import time
 
 # Goes at the beginning of the code
 print("")
 
-textDelayTime = .40
+textDelayTime = .10
 helpCommand = "//help"
 
 def start():
@@ -13,31 +11,7 @@ def start():
     startConfirm = startFile.read()
     startFile.close()
 
-    fileDirectory = "C:/Users/hamza/Documents/GitHub/Pokemon-Prototype/Files"
-
-    filesInDir = [f for f in listdir(fileDirectory) if isfile(join(fileDirectory, f))]
-
-    if "saveDat.txt" in filesInDir:
-        saveDatTrue = True
-    else:
-        saveDatTrue = False
-
     def PROTOCOL_START():
-        enterName = input("Please enter a name: ")
-
-        openSaveFile = open("Files/saveDat.txt", "r")
-        Lines = openSaveFile.readlines()
-        print(Lines)
-        openSaveFile.close()
-
-        Lines[0] = ""
-        Lines[0] = enterName
-
-        openSaveFile = open("Files/saveDat.txt", "w")
-        openSaveFile.writelines(Lines)
-
-        print("\nSave file created!")
-
         print("Welcome to this Python Pokemon Prototype!")
         time.sleep(textDelayTime)
         print("Here you will be able to catch Pokemon as well as battle with others!")
@@ -48,18 +22,10 @@ def start():
         startFile.truncate(0)
         startFile.write("yes")
     
-    if startConfirm == "yes" and saveDatTrue:
-        print("Loading previous save file!")
-
-        openSavDatName = open("Files/saveDat.txt", "r")
-        savDat = openSavDatName.readlines()
-        name = savDat[0]
-        name = name.replace("Trainer Name: ", "")
-        print("Hello Trainer", name)
-        openSavDatName.close()
-
     if startConfirm == "no":
         PROTOCOL_START()
+    else:
+        print("Loading previous save file!")
 
 start()
 
