@@ -1,2 +1,4 @@
 Hamza
 Badges: 0
+Pokemon Encountered: 0
+Pokemon Caught: 0

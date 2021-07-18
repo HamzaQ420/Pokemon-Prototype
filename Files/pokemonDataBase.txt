@@ -1,185 +1,185 @@
-001 - Bulbasaur (Starter)
-002 - Ivysaur 
-003 - Venusaur
-004 - Charmander (Starter)
-005 - Charmeleon
-006 - Charizard
-007 - Squirtle (Starter)
-008 - Wartortle
-009 - Blastoise
-010 - Caterpie
-011 - Metapod
-012 - Butterfree
-013 - Weedle
-014 - Kakuna
-015 - Beedrill
-016 - Pidgey
-017 - Pidgeotto
-018 - Pidgeot
-019 - Rattata
-020 - Raticate
-021 - Spearow
-022 - Fearow
-023 - Ekans
-024 - Arbok
-025 - Pikachu
-026 - Raichu
-027 - Sandshrew
-028 - Sandslash
-029 - Nidoran♀
-030 - Nidorina
-031 - Nidoqueen
-032 - Nidoran♂
-033 - Nidorino
-034 - Nidoking
-035 - Clefairy
-036 - Clefable
-037 - Vulpix
-038 - Ninetales
-039 - Jigglypuff
-040 - Wigglytuff
-041 - Zubat
-042 - Golbat
-043 - Oddish
-044 - Gloom
-045 - Vileplume
-046 - Paras
-047 - Parasect
-048 - Venonat
-049 - Venomoth
-050 - Diglett
-051 - Dugtrio
-052 - Meowth
-053 - Persian
-054 - Psyduck
-055 - Golduck
-056 - Mankey
-057 - Primeape
-058 - Growlithe
-059 - Arcanine
-060 - Poliwag
-061 - Poliwhirl
-062 - Poliwrath
-063 - Abra
-064 - Kadabra
-065 - Alakazam
-066 - Machop
-067 - Machoke
-068 - Machamp
-069 - Bellsprout
-070 - Weepinbell
-071 - Victreebel
-072 - Tentacool
-073 - Tentacruel
-074 - Geodude
-075 - Graveler
-076 - Golem
-077 - Ponyta
-078 - Rapidash
-079 - Slowpoke
-080 - Slowbro
-081 - Magnemite
-082 - Magneton
+001 - Bulbasaur [1] 
+002 - Ivysaur [2]
+003 - Venusaur [3]
+004 - Charmander [1]
+005 - Charmeleon [2]
+006 - Charizard [3]
+007 - Squirtle [1]
+008 - Wartortle [2]
+009 - Blastoise [3]
+010 - Caterpie [1]
+011 - Metapod [2]
+012 - Butterfree [3]
+013 - Weedle [1]
+014 - Kakuna [2]
+015 - Beedrill [3]
+016 - Pidgey [1]
+017 - Pidgeotto [2]
+018 - Pidgeot [3]
+019 - Rattata [1]
+020 - Raticate [2]
+021 - Spearow [1]
+022 - Fearow [2]
+023 - Ekans [1]
+024 - Arbok [2]
+025 - Pikachu [2]
+026 - Raichu [3]
+027 - Sandshrew [1]
+028 - Sandslash [2]
+029 - Nidoran♀ [1]
+030 - Nidorina [2]
+031 - Nidoqueen [3]
+032 - Nidoran♂ [1]
+033 - Nidorino [2]
+034 - Nidoking [3]
+035 - Clefairy [2]
+036 - Clefable [3]
+037 - Vulpix [1]
+038 - Ninetales [2]
+039 - Jigglypuff [2]
+040 - Wigglytuff [3]
+041 - Zubat [1]
+042 - Golbat [2]
+043 - Oddish [1]
+044 - Gloom [2]
+045 - Vileplume [3]
+046 - Paras [1]
+047 - Parasect [2]
+048 - Venonat [1]
+049 - Venomoth [2]
+050 - Diglett [1]
+051 - Dugtrio [2]
+052 - Meowth [1]
+053 - Persian [2]
+054 - Psyduck [1]
+055 - Golduck [2]
+056 - Mankey [1]
+057 - Primeape [2]
+058 - Growlithe [1]
+059 - Arcanine [2]
+060 - Poliwag [1]
+061 - Poliwhirl [1]
+062 - Poliwrath [2]
+063 - Abra [1]
+064 - Kadabra [2]
+065 - Alakazam [3]
+066 - Machop [1]
+067 - Machoke [2]
+068 - Machamp [3]
+069 - Bellsprout [1]
+070 - Weepinbell [2]
+071 - Victreebel [3]
+072 - Tentacool [1]
+073 - Tentacruel [2]
+074 - Geodude [1]
+075 - Graveler [2]
+076 - Golem [3]
+077 - Ponyta [1]
+078 - Rapidash [2]
+079 - Slowpoke [1]
+080 - Slowbro [2]
+081 - Magnemite [1]
+082 - Magneton [2]
 083 - Farfetch'd
-084 - Doduo
-085 - Dodrio
-086 - Seel
-087 - Dewgong
-088 - Grimer
-089 - Muk
-090 - Shellder
-091 - Cloyster
-092 - Gastly
-093 - Haunter
-094 - Gengar
-095 - Onix
-096 - Drowzee
-097 - Hypno
-098 - Krabby
-099 - Kingler
-100 - Voltorb
-101 - Electrode
-102 - Exeggcute
-103 - Exeggutor
-104 - Cubone
-105 - Marowak
-106 - Hitmonlee
-107 - Hitmonchan
-108 - Lickitung
-109 - Koffing
-110 - Weezing
-111 - Rhyhorn
-112 - Rydon
-113 - Chansey
+084 - Doduo [1]
+085 - Dodrio [2]
+086 - Seel [1]
+087 - Dewgong [2]
+088 - Grimer [1]
+089 - Muk [2]
+090 - Shellder [1]
+091 - Cloyster [2]
+092 - Gastly [1]
+093 - Haunter [2]
+094 - Gengar [3]
+095 - Onix [1]
+096 - Drowzee [1]
+097 - Hypno [2]
+098 - Krabby [1]
+099 - Kingler [2]
+100 - Voltorb [1]
+101 - Electrode [2]
+102 - Exeggcute [1]
+103 - Exeggutor [2]
+104 - Cubone [1]
+105 - Marowak [2]
+106 - Hitmonlee [1]
+107 - Hitmonchan [2]
+108 - Lickitung [1]
+109 - Koffing [1]
+110 - Weezing [2]
+111 - Rhyhorn [1]
+112 - Rydon [2]
+113 - Chansey 
 114 - Tangela
 115 - Kangaskhan
-116 - Horsea
-117 - Seadra
-118 - Goldeen
-119 - Seaking
-120 - Staryu
-121 - Starmie
-122 - Mr. Mime
+116 - Horsea [1]
+117 - Seadra [2]
+118 - Goldeen [1]
+119 - Seaking [2]
+120 - Staryu [1]
+121 - Starmie [2]
+122 - Mr. Mime [2]
 123 - Scyther
 124 - Jynx
 125 - Electabuzz
-126 - Magmar
+126 - Magmar [2]
 127 - Pinsir
 128 - Tauros
-129 - Magikarp
-130 - Gyarados
+129 - Magikarp [1]
+130 - Gyarados [2]
 131 - Lapras
 132 - Ditto
-133 - Evee
-134 - Vaporeon
-135 - Jolteon
-136 - Flareon
-137 - Porygon
-138 - Omanyte
-139 - Omastar
-140 - Kabuto
-141 - Kabutops
+133 - Evee [1]
+134 - Vaporeon [2] *water stone*
+135 - Jolteon [3] *thunder stone*
+136 - Flareon [2] *fire stone*
+137 - Porygon [1]
+138 - Omanyte [1]
+139 - Omastar [2]
+140 - Kabuto [1]
+141 - Kabutops [2]
 142 - Aerodactyl
-143 - Snorlax
+143 - Snorlax [2]
 144 - Articuno (Legendary)
 145 - Zapdos (Legendary)
 146 - Moltres (Legendary)
-147 - Dratini
-148 - Dragonair
-149 - Dragonite
+147 - Dratini [1]
+148 - Dragonair [2]
+149 - Dragonite [3]
 150 - Mewtwo (Mythical)
 151 - Mew (Mythical)
-152 - Chikorita (Starter)
-153 - Bayleef
-154 - Meganium
-155 - Cyndaquil (Starter)
-156 - Quilava
-157 - Typhlosion
-158 - Totodile (Starter)
-159 - Croconaw
-160 - Feraligatr
-161 - Sentret
-162 - Furret
-163 - Hoothoot
-164 - Noctowl
-165 - Ledyba
-166 - Ledian
-167 - Spinarak
-168 - Ariados
-169 - Crobat
-170 - Chinchou
-171 - Lanturn
-172 - Pichu
-173 - Cleffa
-174 - Igglybuff
-175 - Togepi
-176 - Togetic
-177 - Natu
-178 - Xatu
-179 - Mareep
-180 - Flaaffy
-181 - Ampharos
-182 - Bellossom
+152 - Chikorita [1]
+153 - Bayleef [2]
+154 - Meganium [3]
+155 - Cyndaquil [1]
+156 - Quilava [2]
+157 - Typhlosion [3]
+158 - Totodile [1]
+159 - Croconaw [2]
+160 - Feraligatr [3]
+161 - Sentret [1]
+162 - Furret [2]
+163 - Hoothoot [1]
+164 - Noctowl [2]
+165 - Ledyba [1]
+166 - Ledian [2]
+167 - Spinarak [1]
+168 - Ariados [2]
+169 - Crobat 
+170 - Chinchou [1]
+171 - Lanturn [2]
+172 - Pichu [1]
+173 - Cleffa [1]
+174 - Igglybuff [1]
+175 - Togepi [1]
+176 - Togetic [2]
+177 - Natu [1]
+178 - Xatu [2]
+179 - Mareep [1]
+180 - Flaaffy [2]
+181 - Ampharos [3]
+182 - Bellossom 
 183 - Marill
 184 - Azumarill
 185 - Sudowoodo
@@ -205,7 +205,7 @@
 205 - Forretress
 206 - Dunsparce
 207 - Gligar
-208 - Steelix
+208 - Steelix [2]
 209 - Snubbull
 210 - Granbull
 211 - Qwilfish
@@ -227,17 +227,17 @@
 227 - Skarmory
 228 - Houndour
 229 - Houndoom
-230 - Kingdra
+230 - Kingdra [3]
 231 - Phanpy
 232 - Donphan
-233 - Porygon2
+233 - Porygon2 [2]
 234 - Stantler
 235 - Smeargle
 236 - Tyrogue
-237 - Hitmontop
+237 - Hitmontop [3]
 238 - Smoochum
 239 - Elekid
-240 - Magby
+240 - Magby [1]
 241 - Miltank
 242 - Blissey
 243 - Raikou (Mythical)
@@ -249,13 +249,13 @@
 249 - Lugia (Legendary)
 250 - Ho-oh (Legendary)
 251 - Celebi (Mythical)
-252 - Treecko (Starter)
+252 - Treecko 
 253 - Grovyle
 254 - Sceptile
-255 - Torchic (Starter)
+255 - Torchic 
 256 - Combusken
 257 - Blaziken
-258 - Mudkip (Starter)
+258 - Mudkip 
 259 - Marshtomp
 260 - Swampert
 261 - Poochyena
@@ -384,13 +384,13 @@
 384 - Rayquaza (Legendary)
 385 - Jirachi (Mythical)
 386 - Deoxys (Mythical)
-387 - Turtwig (Starter)
+387 - Turtwig 
 388 - Grotle
 389 - Torterra
-390 - Chimchar (Starter)
+390 - Chimchar
 391 - Monferno
 392 - Infernape
-393 - Piplup (Starter)
+393 - Piplup 
 394 - Prinplup
 395 - Empoleon
 396 - Starly
@@ -436,14 +436,14 @@
 436 - Bronzor
 437 - Bronzong
 438 - Bonsly
-439 - Mime Jr.
+439 - Mime Jr. [1]
 440 - Happiny
 441 - Chatot
 442 - Spiritomb
 443 - Gible
 444 - Gabite
 445 - Garchomp
-446 - Munchlax
+446 - Munchlax [1]
 447 - Riolu
 448 - Lucario
 449 - Hippopotas
@@ -459,9 +459,9 @@
 459 - Snover
 460 - Abomasnow
 461 - Weavile
-462 - Magnezone
-463 - Lickilicky
-464 - Rhyperior
+462 - Magnezone [3]
+463 - Lickilicky [2]
+464 - Rhyperior [3]
 465 - Tangrowth
 466 - Electivire
 467 - Magmortar
@@ -471,7 +471,7 @@
 471 - Glaceon
 472 - Gliscor
 473 - Mamoswine
-474 - Porygon-Z
+474 - Porygon-Z [3]
 475 - Gallade
 476 - Probopass
 477 - Dusknoir
@@ -492,13 +492,13 @@
 492 - Shaymin (Mythical)
 493 - Arceus (Mythical)
 494 - Victini (Mythical)
-495 - Snivy (Starter)
+495 - Snivy 
 496 - Servine
 497 - Serperior
-498 - Tepig (Starter)
+498 - Tepig 
 499 - Pignite
 500 - Emboar
-501 - Oshawott (Starter)
+501 - Oshawott 
 502 - Dewott
 503 - Samurott
 504 - Patrat
@@ -647,13 +647,13 @@
 647 - Keldeo (Mythical)
 648 - Meloetta (Mythical)
 649 - Genesect (Mythical)
-650 - Chespin (Starter)
+650 - Chespin 
 651 - Quilladin
 652 - Chesnaught
-653 - Fennekin (Starter)
+653 - Fennekin 
 654 - Braixen
 655 - Delphox
-656 - Froakie (Starter)
+656 - Froakie 
 657 - Frogadier
 658 - Greninja
 659 - Bunnelby
@@ -719,13 +719,13 @@
 719 - Diancie (Mythical)
 720 - Hoopa (Mythical)
 721 - Volcanion (Mythical)
-722 - Rowlet (Starter)
+722 - Rowlet 
 723 - Dartrix
 724 - Decidueye
-725 - Litten (Starter)
+725 - Litten 
 726 - Torracat
 727 - Incineroar
-728 - Popplio (Starter)
+728 - Popplio 
 729 - Brionne
 730 - Primarina
 731 - Pikipek
@@ -807,13 +807,13 @@
 807 - Zeraora (Mythical)
 808 - Meltan (Mythical)
 809 - Melmetal (Mythical)
-810 - Grookey (Starter)
+810 - Grookey 
 811 - Thwackey
 812 - Rillaboom
-813 - Scorbunny (Starter)
+813 - Scorbunny 
 814 - Raboot
 815 - Cinderace
-816 - Sobble (Starter)
+816 - Sobble 
 817 - Drizzile
 818 - Inteleon
 819 - Skwovet

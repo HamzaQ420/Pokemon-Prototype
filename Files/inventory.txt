@@ -1,0 +1,6 @@
+mastr: 0
+premB: 0
+ultra: 0
+great: 0
+pokeB: 0
+coins: 0
