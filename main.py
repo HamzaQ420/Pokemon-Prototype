@@ -143,6 +143,19 @@ def gameplayCommands():
 
     def pokedexCommmand():
         print("Pokedex")
+        pokedexOpen = open("Files/pokemonDataBase.txt", "r")
+        pokedexReadLines = pokedexOpen.readlines()
+        z = 0
+        isScanning = True
+        while isScanning:
+            print(pokedexReadLines[z])
+            z = z + 1
+            if z == 897:
+                isScanning = False
+                
+        selectDexEntry = input("Type in the Dex Number or Name of the Pokemon you would like to view: ")
+        if selectDexEntry.isdigit():
+            print("\n" + pokedexReadLines[int(selectDexEntry) + 1])
 
     def spawnCommand():
         print("Spawn Command Triggered")
@@ -190,7 +203,7 @@ def gameplayCommands():
         print(len(saveDatOpenRead))
         encounter = saveDatOpenRead[2]
         print(encounter)
-
+  
         encounter = encounter.replace("\n", "")
         splitEncounter = encounter.split(": ", 1)
         print(splitEncounter[0])
